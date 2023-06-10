@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"LS1, MX5, MX6, MX7, RS1, TURBO1",SW_PUSH_6mm_H5mm,6,MX-NoLED,
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX2, MX3, MX4, MX8, MX9",Kailh_socket_MX_optional,13,MX-NoLED,
+U1,rp2040-zero-tht,1,Pico,
